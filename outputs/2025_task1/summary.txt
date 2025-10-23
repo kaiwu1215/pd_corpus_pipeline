@@ -1,0 +1,4 @@
+total_pairs=1834399
+in_word_pairs=1020863, unique=53853
+cross_word_pairs=813536, unique=181664
+Files: adjacent_pairs_in_word.csv, adjacent_pairs_cross_word.csv

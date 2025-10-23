@@ -1,0 +1,6 @@
+# 全局参数
+window_size: 2          # 相邻分析使用窗口：字符/词均使用邻近对（2表示成对），可按需调整
+min_char_count: 5       # 统计 PMI 时二字的最小频次
+min_word_count: 3       # 任务3/新词的最小频次
+only_chinese: true      # 清洗阶段仅保留中文（与数字、常见中文标点）
+pos_pair_min_count: 5   # 任务2中相邻词性对的最小计数
